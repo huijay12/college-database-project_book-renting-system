@@ -1,0 +1,71 @@
+table{
+		height:300px;
+		width: 950px;
+		margin: 0px auto;
+		border: 0px; 
+	}
+
+td { 
+  		border-bottom:1px solid #101010; 
+	} 
+
+img{
+		height:110px;
+		width: 100px;
+	}
+
+h3{
+	text-align: center;
+}
+
+.member_Area{
+		width: 200px;
+		height: 60px;
+		margin: 10px;
+		float: right;
+		background-color: #FFF;
+	}
+
+.container {
+	background-color:#99C;
+	width:1200px;
+	height:600px;
+	margin:0px auto;
+	}
+
+.header{
+	width:1200px;
+	height:100px;
+	background-color: #267;
+	}
+	
+.content{
+		background-color:#777;
+		width:1200px;
+	    /*height:500px;*/
+	}
+
+.tableContainer{
+		margin:20px 20px 20px 20px;
+		background-color:#99F;
+	}
+
+.SelectBar{
+		width:1200px;
+	    height:60px;
+		background-color:#987;
+	}
+
+.ModeBtn{
+		float:left;   
+	}
+
+.manageZone{
+		width:1200px;
+		background-color: #EEE;
+	}
+
+.footer{
+		width:1200px;
+	    height:80px;
+	}
